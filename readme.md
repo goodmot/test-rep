@@ -1,2 +1,1 @@
-readmeeeeeeeeeeeeeee
-ahahahahah
+# Тестовый репозиторый для тренировки с Git
