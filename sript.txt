@@ -1,3 +1,0 @@
-text of script
-
-print('hello world')
